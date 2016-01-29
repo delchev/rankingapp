@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Sangria",
+    "summary": "Smart Buildings",
+    "image": "images/sangria.jpg",
+    "members": ["Valentin Mezev", "Nedyalko Yotov", "Diana Mihaylova"]
+  },
+  {
+    "name": "Spitting Llamas",
+    "summary": "Image Service + sample @ Mobile Documents",
+    "image": "images/llamas.jpg",
+    "members": ["Radoslav Tomov"]
+  },
+  {
+    "name": "HomeSpirit",
+    "summary": "Automation(Home,Office,..) with IoT",
+    "image": "images/home-automation.png",
+    "members": ["Stoyan Kanev"]
+  },
+  {
+    "name": "EcoLogic",
+    "summary": "IoT system for monitoring, analysis and control of emissions from vehicles",
+    "image": "images/eco-car.jpg",
+    "members": ["Tsvetan Tsokov"]
+  },
+  {
+    "name": "Tulapi",
+    "summary": "User story mapping meets web analytics",
+    "image": "images/analytics.png",
+    "members": ["Stephan Zlatarev"]
+  },
+  {
+    "name": "Asphalt Kings",
+    "summary": "Motorcycle enthusiasts social portal + device for motorcycle telemetry",
+    "image": "images/biker.jpg",
+    "members": ["Dragomir Tunchev", "Rosen Rachev", "Assen Tzekin", "Lyubomir Hristov"]
+  },
+  {
+    "name": "The Loggers",
+    "summary": "Troubleshooting assistant for HCP",
+    "image": "images/log.png",
+    "members": ["Vasil Panushev", "Radoslav Sugarev"]
+  },
+  {
+    "name": "Oily Calm",
+    "summary": "A whiteboard replacement for facilitating project management (be it personal or work related)",
+    "image": "images/whiteboard.png",
+    "members": ["Desislava Mineva", "Ivelin Petkov", "Tsvetan Iliev", "Stilyan Tanev"]
+  },
+  {
+    "name": "Kashkaval Tourist",
+    "summary": "Tourism App for the \"100 National Tourist Sites\"",
+    "image": "images/hiker.png",
+    "members": ["Georgi Valkanov", "Diana Pazheva", "Ilhan Myumyun"]
+  },
+  {
+    "name": "112",
+    "summary": "Health",
+    "image": "images/112.jpg",
+    "members": ["Yordan Kanov", "Teodor Nanev"]
+  },
+  {
+    "name": "Monitoring&Logging",
+    "summary": "Real-time log monitoring in your browser",
+    "image": "images/log_search.png",
+    "members": ["Daniel Simeonov", "Ivaylo Ruskov", "Martin Panev"]
+  },
+  {
+    "name": "CloudLaunch",
+    "summary": "TBD",
+    "image": "images/cloud-launch.png",
+    "members": ["Dimitar Valov", "Stephan Zlatarev", "Mihail Kyosev"]
+  },
+  {
+    "name": "Face Off !",
+    "summary": "Content recommendation based on facial expressions",
+    "image": "images/facial-recognition.png",
+    "members": ["Shtiliyan Uzunov", "Petyo Kostakov"]
+  },
+  {
+    "name": "TBD",
+    "summary": "Indoor Positioning System with Augmented Reality",
+    "image": "images/indoor-navigation.jpg",
+    "members": ["Marin Shalamanov", "Petar Petrov", "Bojidar Kadrev", "Desislav Bantchovski"]
+  },
+  {
+    "name": "Dev Mobilists",
+    "summary": "Development For Mobile in Mobile",
+    "image": "images/mobile-dev.png",
+    "members": ["Yordan Pavlov", "Petar Dochev", "Georgi Pavlov", "Nedelcho Delchev"]
+  },
+  {
+    "name": "Leaners",
+    "summary": "Lean Catalog",
+    "image": "images/catalog.png",
+    "members": ["Martin Vladev", "Georgi Pavlov", "Nedelcho Delchev"]
+  },
+  {
+    "name": "Daleks",
+    "summary": "Team Assistant",
+    "image": "images/dalek256.jpg",
+    "members": ["Snezhana Sapunkova", "Dobromir Zahariev", "Dimitar Giormov"]
+  },
+  {
+    "name": "Vladi",
+    "summary": "Prepare IOT (ESP8266) 101 Training and DCom Session",
+    "image": "images/iot.png",
+    "members": ["Vladimir Savchenko"]
+  },
+  {
+    "name": "SmartRooms",
+    "summary": "Make meeting rooms more intelligent with IoT",
+    "image": "images/meeting-room.png",
+    "members": ["Kiril Kabakchiev", "Pavel Genevski"]
+  },
+  {
+    "name": "Aby",
+    "summary": "A/B testing service for HCP",
+    "image": "images/ab-testing.jpg",
+    "members": ["Petar Kamburov", "Pavel Genevski"]
+  }
+]
